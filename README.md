@@ -1,7 +1,7 @@
 # Opa, seja bem vindo o meu perfil! Meu nome é Rafael Lira.
 
-- Sou Desencolvedor Front-End Junior
-- Recentemente comecei a estudar tecnologias voltadas ao Back-End
+- Sou Desencolvedor Front-End Junior.
+- Atualmente estou focado em aperfeiçoar minha fluência nas tecnologias de front e me desnvolver como prefissional.
 
 <div align="center">
   <a href="https://github.com/rfllira">
