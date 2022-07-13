@@ -1,4 +1,4 @@
-# Opa, seja bem vindo o meu perfil! Meu nome é Rafael Lira.
+# Opa, seja bem vindo o meu perfil!
 
 - Sou Desencolvedor Front-End Junior.
 - Atualmente estou focado em aperfeiçoar minha fluência nas tecnologias de front e me desnvolver como prefissional.
