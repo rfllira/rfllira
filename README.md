@@ -1,6 +1,8 @@
 # Opa, seja bem vindo o meu perfil!
 
-- Atualmente estou focado em aperfeiçoar minha fluência nas tecnologias de front e me desnvolver como prefissional.
+- Estou há 7 meses na área de Desenvolvimento.
+
+- Meu objetivo atual é encontrar uma oportunidade de trabalho para aperfeiçoar meus aprendizados, aprender coisas novas e me desenvolver como profissional. 
 
 <div align="center">
   <a href="https://github.com/rfllira">
