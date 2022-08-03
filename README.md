@@ -1,6 +1,6 @@
 # Opa, seja bem vindo o meu perfil!
 
-- Estou há 7 meses na área de Desenvolvimento.
+- Estou há 8 meses na área de Desenvolvimento.
 
 - Meu objetivo atual é encontrar uma oportunidade de trabalho para aperfeiçoar meus aprendizados, aprender coisas novas e me desenvolver como profissional. 
 
