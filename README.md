@@ -2,7 +2,9 @@
 
 - Estou há 8 meses na área de Desenvolvimento.
 
-- Meu objetivo atual é encontrar uma oportunidade de trabalho para aperfeiçoar meus aprendizados, aprender coisas novas e me desenvolver como profissional. 
+- Meu objetivo atual é encontrar uma oportunidade de trabalho como Desenvolvedor de Software para aperfeiçoar meus aprendizados, aprender coisas novas, agregar ao máximo a empresa e desenvolver-me como profissional.
+
+- Para praticar meus conhecimentos faço projetos pessoais inspirados nas demandas reais do mercado e participo ativamente da comunidade tech.
 
 <div align="center">
   <a href="https://github.com/rfllira">
