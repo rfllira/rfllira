@@ -4,15 +4,6 @@
 
 - Meu objetivo atual é encontrar uma oportunidade de trabalho como Desenvolvedor de Software para aperfeiçoar meus aprendizados, aprender coisas novas, agregar ao máximo a empresa e desenvolver-me como profissional.
 
-- const Stacks = {
-  versionamentoDeCodigo: "Git",
-  liguagemDeMarcacao: [ "HTML", "CSS" ],
-  linguagemDeProgramação: {
-    JavaScript: [ "TypeScript", "React" ]
-  }
-  testes: "Jest"
-}
-
 - Para praticar meus conhecimentos faço projetos pessoais inspirados nas demandas reais do mercado e participo ativamente da comunidade tech.
 
 <div align="center">
