@@ -1,11 +1,5 @@
 # Opa, seja bem vindo o meu perfil!
 
-- Estou há 8 meses na área de Desenvolvimento.
-
-- Meu objetivo atual é encontrar uma oportunidade de trabalho como Desenvolvedor de Software para aperfeiçoar meus aprendizados, adquirir conhecimento, criar laços, agregar ao máximo a empresa e desenvolver-me como profissional.
-
-- Para praticar meus conhecimentos faço projetos pessoais inspirados nas demandas reais do mercado e participo ativamente da comunidade tech.
-
 <div align="center">
   <a href="https://github.com/rfllira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rfllira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
