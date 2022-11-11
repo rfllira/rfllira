@@ -15,6 +15,7 @@
   <img align="center" alt="icone" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="icone" height="50" width="50" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png">
   <img align="center" alt="icone" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="icone" height="50" width="50" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/nextjs_icon_132160.png">  
 </div>
 
 <br/>
