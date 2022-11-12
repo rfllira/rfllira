@@ -1,5 +1,7 @@
 # Opa, seja bem vindo o meu perfil!
 
+* Apesar da ênfase no front, também tenho conhecimento prático em UI/UX, Docker, AWS, Node e MySQL, pois acredito que a pessoa desenvolvedora deve ter ciência do funcionamento uma aplicação como um todo.
+
 <div align="center">
   <a href="https://github.com/rfllira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rfllira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
