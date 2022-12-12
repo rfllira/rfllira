@@ -1,6 +1,6 @@
 # Opa, seja bem vindo o meu perfil!
 
-* Apesar da ênfase no front, também tenho conhecimento prático em UI/UX, Docker, AWS, Node e MySQL, pois acredito que a pessoa desenvolvedora deve ter ciência do funcionamento uma aplicação como um todo.
+* Apesar da ênfase no front, também possuo conhecimento em UI/UX, AWS, Docker, Node, MySQL e Selenium, pois acredito que é fundamental para desenvolvedor ter ciência do ciclo completo de uma aplicação.
 
 <div align="center">
   <a href="https://github.com/rfllira">
