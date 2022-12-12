@@ -1,4 +1,4 @@
-# Seja bem vindo o meu perfil!
+# Seja bem vindo(a) ao meu perfil!
 
 * Apesar da ênfase no front, também possuo conhecimento em UI/UX, AWS, Docker, Node, MySQL e Selenium, pois acredito que é fundamental para desenvolvedor ter ciência do ciclo completo de uma aplicação.
 
