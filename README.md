@@ -1,6 +1,6 @@
 # Seja bem vindo(a) ao meu perfil!
 
-* Apesar da ênfase no front, também possuo conhecimento em UI/UX, AWS, Docker, Node, MySQL e Selenium, pois acredito que é fundamental para desenvolvedor ter ciência do ciclo completo de uma aplicação.
+* Apesar da ênfase no front, também possuo conhecimento em UI/UX, AWS, Docker, Node, Sequelize e MySQL, pois acredito que é fundamental para desenvolvedor ter ciência do ciclo completo de uma aplicação.
 
 <div align="center">
   <a href="https://github.com/rfllira">
