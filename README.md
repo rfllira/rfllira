@@ -1,8 +1,8 @@
 # Seja bem vindo(a) ao meu perfil!
 
-* Sou desenvolvedor frontend e a cada dia fico mais encantado pela área em que atuo, por isso sou um grande adepto da frase "trabalhe com o que você ama e nunca mais precisará trabalhar na vida". Ademais, estou sempre buscando aprender mais sobre o mundo da tecnologia e artifícios que me façam evoluir como desenvolvedor.
+* Sou Desenvolvedor de Software e a cada dia fico mais encantado pela área em que atuo, por isso sou um grande adepto da frase "trabalhe com o que você ama e nunca mais precisará trabalhar na vida". Ademais, estou sempre buscando aprender mais sobre o mundo da tecnologia e artifícios que me façam evoluir como desenvolvedor.
 
-* Já atuei no mercado utilizando React, JavaScript e TypeScript, por exemplo. E apesar da ênfase no front, também possuo conhecimento React Native, C#, .NET,  Node, Prisma, MySQL, Docker e AWS, pois acredito que é fundamental para desenvolvedor ter ciência do ciclo completo de uma aplicação
+* Já atuei no mercado utilizando React, JavaScript e TypeScript, C#, .NET,  Node,  Nest, Prisma, SQL, MySQL e  PostgresSQL por exemplo. Também possuo conhecimento em UI / UX, React Native, Docker e AWS, pois acredito que é fundamental para desenvolvedor ter ciência do ciclo completo de uma aplicação
 
 <div align="center">
   <a href="https://github.com/rfllira">
