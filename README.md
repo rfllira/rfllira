@@ -2,7 +2,7 @@
 
 * Sou um desenvolvedor de software com 2 anos e 8 meses de experiência no mercado, e minha paixão pela área só cresce a cada dia. Acredito firmemente no poder da frase "trabalhe com o que você ama e nunca mais precisará trabalhar na vida". Sempre busco aprimorar meus conhecimentos em tecnologia e estar atualizado para evoluir tanto no âmbito profissional quanto no pessoal.
 
-Minha trajetória profissional inclui a utilização de diversas tecnologias em projetos reais. Possuo habilidades em Git, CI/CD, HTML, CSS, JavaScript, TypeScript, React, React Native, Next, Node, Nest, C#, .NET, SQL, MySQL, PostgresSQL, SQL Server, Docker e Azure. Ao longo de dois anos (2021 - 2022), tive a oportunidade de trabalhar em demandas plurais e desafiadoras, o que me permitiu aprofundar meu conhecimento em várias tecnologias.
+* Minha trajetória profissional inclui a utilização de diversas tecnologias em projetos reais. Possuo habilidades em Git, CI/CD, HTML, CSS, JavaScript, TypeScript, React, React Native, Next, Node, Nest, C#, .NET, SQL, MySQL, PostgresSQL, SQL Server, Docker e Azure. Ao longo de dois anos (2021 - 2022), tive a oportunidade de trabalhar em demandas plurais e desafiadoras, o que me permitiu aprofundar meu conhecimento em várias tecnologias.
 
 <div align="center">
   <a href="https://github.com/rfllira">
