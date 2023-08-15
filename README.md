@@ -1,24 +1,13 @@
 # Seja bem vindo(a) ao meu perfil!
 
-* Sou Desenvolvedor de Software e a cada dia fico mais encantado pela área em que atuo, por isso sou um grande adepto da frase "trabalhe com o que você ama e nunca mais precisará trabalhar na vida". Ademais, estou sempre buscando aprender mais sobre o mundo da tecnologia e artifícios que me façam evoluir como desenvolvedor.
+* Sou um desenvolvedor de software com 2 anos e 8 meses de experiência no mercado, e minha paixão pela área só cresce a cada dia. Acredito firmemente no poder da frase "trabalhe com o que você ama e nunca mais precisará trabalhar na vida". Sempre busco aprimorar meus conhecimentos em tecnologia e estar atualizado para evoluir tanto no âmbito profissional quanto no pessoal.
 
-* Já atuei no mercado utilizando React, JavaScript e TypeScript, C#, .NET,  Node,  Nest, Prisma, SQL, MySQL e  PostgresSQL por exemplo. Também possuo conhecimento em UI / UX, React Native, Docker e AWS, pois acredito que é fundamental para desenvolvedor ter ciência do ciclo completo de uma aplicação
+Minha trajetória profissional inclui a utilização de diversas tecnologias em projetos reais. Possuo habilidades em Git, CI/CD, HTML, CSS, JavaScript, TypeScript, React, React Native, Next, Node, Nest, C#, .NET, SQL, MySQL, PostgresSQL, SQL Server, Docker e Azure. Ao longo de dois anos (2021 - 2022), tive a oportunidade de trabalhar em demandas plurais e desafiadoras, o que me permitiu aprofundar meu conhecimento em várias tecnologias.
 
 <div align="center">
   <a href="https://github.com/rfllira">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rfllira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfllira&layout=compact&langs_count=7&theme=dark"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="icone" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="icone" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="icone" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="icone" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="icone" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="icone" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="icone" height="50" width="50" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail-1.png">
-  <img align="center" alt="icone" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
 </div>
 
 <br/>
